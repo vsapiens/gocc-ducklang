@@ -1,0 +1,10 @@
+program test2: 
+
+var hola: int;
+    x: float;
+    y: int;
+    m,n,o: float;
+
+{
+
+}

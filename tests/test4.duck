@@ -1,0 +1,33 @@
+program test3 :
+
+var hola: int;
+    x: float;
+    y: int;
+    m,n,o: float;
+
+{
+    x = 23;
+    y = m + n / 23;
+
+    print("hola");
+
+    if (m <> n) {
+        print(m);
+        print("No igual");
+
+        m = m-1;
+    };
+
+    if (m + x < y) {
+        y = x / m;
+
+        if (y > x) {
+            print("ok");
+        };
+    }
+    else {
+        y = x * m;
+    };
+
+    print("Fin");
+}

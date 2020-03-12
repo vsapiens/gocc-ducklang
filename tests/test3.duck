@@ -1,0 +1,13 @@
+program test3 :
+
+var hola: int;
+    x: float;
+    y: int;
+    m,n,o: float;
+
+{
+    x = 23;
+    y = m + n / 23;
+
+    print("hola");
+}
