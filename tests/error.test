@@ -1,0 +1,22 @@
+program error :
+
+var x: float;
+    y: int;
+{
+    x = 10;
+    y = 50;
+
+    print("Hola Mundo");
+
+    if ( x + 39 <> y) {
+        y = x + 41;
+        if (y < x) {
+            print("Greater than");
+        };
+    
+    else {
+        x = y;
+    };
+
+    print("End Program");
+}
